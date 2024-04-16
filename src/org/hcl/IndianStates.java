@@ -14,6 +14,11 @@ public abstract class IndianStates {
 		System.out.println("Andhra: Captal in Amaravati");
 	}
 	
+	private void m1() {
+		System.out.println("Union Territories don't have a capital");
+
+	}
+	
 	public abstract void pondicherry();
 	
 	public abstract void goa();
