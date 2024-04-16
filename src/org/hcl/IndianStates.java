@@ -14,6 +14,10 @@ public abstract class IndianStates {
 		System.out.println("Andhra: Captal in Amaravati");
 	}
 	
+	private void newDelhi() {
+		System.out.println("This is an union teritory");
+	}
+	
 	public abstract void pondicherry();
 	
 	public abstract void goa();
